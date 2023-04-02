@@ -1,2 +1,4 @@
 I am anverges
 I am Batman
+Git is a distributed version control system.
+Git is free software.
